@@ -1,0 +1,28 @@
+h1{
+  color:red;
+}
+small{
+  display: block;
+}
+h3{
+  display: inline;
+}
+.practice
+{
+  background-color: rgb(255, 51, 0);
+  color:white;
+  padding: 10px;
+  text-align: justify;
+  border-top:20px solid rgb(0, 0, 0);
+  border-left:20px dotted rgb(0, 0, 0);
+  border-right:20px dashed rgb(0, 0, 0);
+  border-bottom:20px double rgb(0, 0, 0);
+}
+.practice span{
+  color:rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 600;
+}
+.practice h2 {
+  text-align: center;
+}
